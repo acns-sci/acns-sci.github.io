@@ -1,0 +1,14 @@
+Title:
+Hey... it’s a PDF. What can go wrong?
+
+Abstract:
+The basic idea of a PDF is simple. Users can open a document on different operating systems, and it has the same appearance as its printed equivalent. In the early 1990s, this conformance was a game-changer: it allowed sharing of documents on the Internet. Since then, PDFs have experienced an incredible evolution. The latest PDF standard supports calculation logic, 3D animations, and the filling and submitting of forms. PDF nowadays even supports JavaScript, a well-known scripting language used on websites. PDFs can also be signed and encrypted to ensure confidentiality, authenticity, and integrity.
+This talk sheds light on what can go wrong when a user opens a PDF. We present the art of breaking PDF signatures. We highlight the developers' contradictive interpretation of specifications and talk about the difficulties to validate PDF signatures properly. Finally, we conclude with an outlook of further threats raised from documents.
+
+Bio Christian Mainka
+Christian Mainka is a post-doctoral researcher at Ruhr-University Bochum. His research covers web and data security topics, presented at academia's and industry's most significant security conferences. His journey began in 2009 with the security impact arising from data description languages such as JSON and XML. Since then, he has filed numerous CVEs in widespread applications and libraries. He also originates the penetration test tools WS-Attacker and the Single Sign-On Burpsuite Extension EsPReSSO. Together with his colleagues, he is developing new cyber attacks on PDF that won first place at the 2019 CSAW Applied Research Competition. At the 2021 ACM Conference on Computer and Communications Security (CCS), his collaborative publication on Cross-Site Leaks in Web Browsers won the Best Paper Award.
+Twitter: @chearix
+
+Bio Vladislav Mladenov
+Vladislav Mladenov works as a security researcher at the Chair of Network and Data Security at the Ruhr University Bochum since 2012. In his dissertation he analyzed the security of Single Sign-On protocols such as SAML 2.0, OpenID, OpenID Connect and OAuth and discovered various vulnerabilities. After completing his doctorate Vladislav Mladenov works as a PostDoc and additionally devotes his attention to the security of data description languages, e.g. JSON, XML and PostScript. Since 2018, Mr. Mladenov focused his research on the security of office documents and recently published several attacks on PDFs.
+Twitter: @v_mladenov

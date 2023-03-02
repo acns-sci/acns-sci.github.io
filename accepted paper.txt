@@ -1,0 +1,3 @@
+#1 UniqueChain: Achieving (Near) Optimal Transaction Settlement Time via Single Leader Election  
+#2 PEPEC: Precomputed ECC Points Embedded in Certificates and Verified by CT Log Servers
+#3 Efficient Software Implementation of GMT-672 and GMT8-542 Pairing-Friendly Curves for a 128-bit Security Level 
