@@ -384,7 +384,8 @@ nav.navbar.bootsnav .navbar-toggle i{color: #4e4ffa;}
         6. New-cars
 --------------------------------------*/
 .new-cars{
-    background: #f8f9fb;
+    /* background: #f8f9fb; */
+    background: #fff;
     padding:112px 0 120px;
 }
 .new-cars-content{padding-top:96px;}
@@ -571,7 +572,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #4e4ffa;}
 .single-footer-widget p {
     font-size: 14px;
     color: #eeeff6;
-    max-width: 300px;
+    /* max-width: 300px; */
     margin:40px 0 20px;
 }
 .footer-contact p {
