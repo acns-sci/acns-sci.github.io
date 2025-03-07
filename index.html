@@ -274,10 +274,18 @@
 					<h2>Keynote</h2> 
 				</div> 
 				<div class="speaker" style="display: flex; align-items: center;"> 
-					<img src="https://gruss.cc/portrait_small.jpg"  alt="Daniel Gruss" style="width: 200px; height: 200px; margin-right: 20px;"> 
-					<div class="speaker-info"> 
-						<h3>Daniel Gruss</h3> 
+					<!-- 图片文字垂直排列 -->
+					<div style="display: flex; flex-direction: column; margin-right: 20px;">
+						<img src="https://gruss.cc/portrait_small.jpg" 
+							alt="Daniel Gruss" 
+							style="width: auto; height: auto;">
+						<p style="text-align: center; margin-top: 10px; font-style: italic;">
+							<b>Professor Daniel Gruss,</b> <br> <b>Graz University of Technology</b>
+						</p>
+					</div>
 
+								
+					<div class="speaker-info"> 
 						<p><b>Title</b>: How the Microarchitecture undermines Confidentiality and Integrity</p>
 						<p><b>Abstract</b>: In this talk we will discuss a range of microarchitectural attacks. We will see that the microarchitecture is a common source of information leakage, with the example of different side channel attacks, transient-execution attacks, and even architectural leakage due to bugs in the processor implementation. We then show that integrity can also be compromised both due to physical effects and due to implementation bugs.</p> 
 
